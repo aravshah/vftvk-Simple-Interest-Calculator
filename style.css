@@ -17,3 +17,9 @@ h1 {
   border-radius: 25px;
   margin: auto;
 }
+
+button {
+  width: 150px;
+  padding: 5px;
+  border-radius: 12px;
+}
